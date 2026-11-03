@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gemini 2 Image Inspector</title>
+  <style>
+    body { font-family: sans-serif; background: #0f172a; color: #fff; margin: 0; padding: 20px; }
+    h1 { margin-bottom: 20px; }
+    .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+    .card { background: #1e293b; border-radius: 8px; overflow: hidden; padding: 8px; border: 1px solid #334155; }
+    .card.highlight { border: 2px solid #38bdf8; }
+    img { width: 100%; height: 260px; object-fit: contain; background: #f8fafc; border-radius: 4px; }
+    .num { font-size: 12px; color: #94a3b8; margin-top: 4px; }
+    .name { font-size: 13px; word-break: break-all; font-weight: bold; color: #38bdf8; margin-top: 2px; }
+  </style>
+</head>
+<body>
+  <h1>Gemini 2 Asset Library (77 images)</h1>
+  <div class="grid">
+
+    <div class="card" id="card-0">
+      <img src="/assets/real/gemini2/best hero 35.jpg" alt="best hero 35.jpg" />
+      <div class="num">#1</div>
+      <div class="name">best hero 35.jpg</div>
+    </div>
+  
+    <div class="card" id="card-1">
+      <img src="/assets/real/gemini2/hero p20(2).png" alt="hero p20(2).png" />
+      <div class="num">#2</div>
+      <div class="name">hero p20(2).png</div>
+    </div>
+  
+    <div class="card" id="card-2">
+      <img src="/assets/real/gemini2/hero p20.png" alt="hero p20.png" />
+      <div class="num">#3</div>
+      <div class="name">hero p20.png</div>
+    </div>
+  
+    <div class="card" id="card-3">
+      <img src="/assets/real/gemini2/p1(2).png" alt="p1(2).png" />
+      <div class="num">#4</div>
+      <div class="name">p1(2).png</div>
+    </div>
+  
+    <div class="card" id="card-4">
+      <img src="/assets/real/gemini2/p1.png" alt="p1.png" />
+      <div class="num">#5</div>
+      <div class="name">p1.png</div>
+    </div>
+  
+    <div class="card" id="card-5">
+      <img src="/assets/real/gemini2/p10(2).png" alt="p10(2).png" />
+      <div class="num">#6</div>
+      <div class="name">p10(2).png</div>
+    </div>
+  
+    <div class="card" id="card-6">
+      <img src="/assets/real/gemini2/p10.png" alt="p10.png" />
+      <div class="num">#7</div>
+      <div class="name">p10.png</div>
+    </div>
+  
+    <div class="card" id="card-7">
+      <img src="/assets/real/gemini2/p11(2).png" alt="p11(2).png" />
+      <div class="num">#8</div>
+      <div class="name">p11(2).png</div>
+    </div>
+  
+    <div class="card" id="card-8">
+      <img src="/assets/real/gemini2/p11.png" alt="p11.png" />
+      <div class="num">#9</div>
+      <div class="name">p11.png</div>
+    </div>
+  
+    <div class="card" id="card-9">
+      <img src="/assets/real/gemini2/p12(2).png" alt="p12(2).png" />
+      <div class="num">#10</div>
+      <div class="name">p12(2).png</div>
+    </div>
+  
+    <div class="card" id="card-10">
+      <img src="/assets/real/gemini2/p12.png" alt="p12.png" />
+      <div class="num">#11</div>
+      <div class="name">p12.png</div>
+    </div>
+  
+    <div class="card" id="card-11">
+      <img src="/assets/real/gemini2/p13(2).png" alt="p13(2).png" />
+      <div class="num">#12</div>
+      <div class="name">p13(2).png</div>
+    </div>
+  
+    <div class="card" id="card-12">
+      <img src="/assets/real/gemini2/p13.png" alt="p13.png" />
+      <div class="num">#13</div>
+      <div class="name">p13.png</div>
+    </div>
+  
+    <div class="card" id="card-13">
+      <img src="/assets/real/gemini2/p14(2).png" alt="p14(2).png" />
+      <div class="num">#14</div>
+      <div class="name">p14(2).png</div>
+    </div>
+  
+    <div class="card" id="card-14">
+      <img src="/assets/real/gemini2/p14.png" alt="p14.png" />
+      <div class="num">#15</div>
+      <div class="name">p14.png</div>
+    </div>
+  
+    <div class="card" id="card-15">
+      <img src="/assets/real/gemini2/p15(2).png" alt="p15(2).png" />
+      <div class="num">#16</div>
+      <div class="name">p15(2).png</div>
+    </div>
+  
+    <div class="card" id="card-16">
+      <img src="/assets/real/gemini2/p15.png" alt="p15.png" />
+      <div class="num">#17</div>
+      <div class="name">p15.png</div>
+    </div>
+  
+    <div class="card" id="card-17">
+      <img src="/assets/real/gemini2/p16(2).png" alt="p16(2).png" />
+      <div class="num">#18</div>
+      <div class="name">p16(2).png</div>
+    </div>
+  
+    <div class="card" id="card-18">
+      <img src="/assets/real/gemini2/p16.png" alt="p16.png" />
+      <div class="num">#19</div>
+      <div class="name">p16.png</div>
+    </div>
+  
+    <div class="card" id="card-19">
+      <img src="/assets/real/gemini2/p17.png" alt="p17.png" />
+      <div class="num">#20</div>
+      <div class="name">p17.png</div>
+    </div>
+  
+    <div class="card" id="card-20">
+      <img src="/assets/real/gemini2/p18(2).png" alt="p18(2).png" />
+      <div class="num">#21</div>
+      <div class="name">p18(2).png</div>
+    </div>
+  
+    <div class="card" id="card-21">
+      <img src="/assets/real/gemini2/p18.png" alt="p18.png" />
+      <div class="num">#22</div>
+      <div class="name">p18.png</div>
+    </div>
+  
+    <div class="card" id="card-22">
+      <img src="/assets/real/gemini2/p19(2).png" alt="p19(2).png" />
+      <div class="num">#23</div>
+      <div class="name">p19(2).png</div>
+    </div>
+  
+    <div class="card" id="card-23">
+      <img src="/assets/real/gemini2/p19.png" alt="p19.png" />
+      <div class="num">#24</div>
+      <div class="name">p19.png</div>
+    </div>
+  
+    <div class="card" id="card-24">
+      <img src="/assets/real/gemini2/p2(2).png" alt="p2(2).png" />
+      <div class="num">#25</div>
+      <div class="name">p2(2).png</div>
+    </div>
+  
+    <div class="card" id="card-25">
+      <img src="/assets/real/gemini2/p2.png" alt="p2.png" />
+      <div class="num">#26</div>
+      <div class="name">p2.png</div>
+    </div>
+  
+    <div class="card" id="card-26">
+      <img src="/assets/real/gemini2/p21(2).png" alt="p21(2).png" />
+      <div class="num">#27</div>
+      <div class="name">p21(2).png</div>
+    </div>
+  
+    <div class="card" id="card-27">
+      <img src="/assets/real/gemini2/p21.png" alt="p21.png" />
+      <div class="num">#28</div>
+      <div class="name">p21.png</div>
+    </div>
+  
+    <div class="card" id="card-28">
+      <img src="/assets/real/gemini2/p22(2).png" alt="p22(2).png" />
+      <div class="num">#29</div>
+      <div class="name">p22(2).png</div>
+    </div>
+  
+    <div class="card" id="card-29">
+      <img src="/assets/real/gemini2/p22.png" alt="p22.png" />
+      <div class="num">#30</div>
+      <div class="name">p22.png</div>
+    </div>
+  
+    <div class="card" id="card-30">
+      <img src="/assets/real/gemini2/p23 hero.png" alt="p23 hero.png" />
+      <div class="num">#31</div>
+      <div class="name">p23 hero.png</div>
+    </div>
+  
+    <div class="card" id="card-31">
+      <img src="/assets/real/gemini2/p23(2).png" alt="p23(2).png" />
+      <div class="num">#32</div>
+      <div class="name">p23(2).png</div>
+    </div>
+  
+    <div class="card" id="card-32">
+      <img src="/assets/real/gemini2/p24 hero.png" alt="p24 hero.png" />
+      <div class="num">#33</div>
+      <div class="name">p24 hero.png</div>
+    </div>
+  
+    <div class="card" id="card-33">
+      <img src="/assets/real/gemini2/p24(2) hero.png" alt="p24(2) hero.png" />
+      <div class="num">#34</div>
+      <div class="name">p24(2) hero.png</div>
+    </div>
+  
+    <div class="card" id="card-34">
+      <img src="/assets/real/gemini2/p25(2).png" alt="p25(2).png" />
+      <div class="num">#35</div>
+      <div class="name">p25(2).png</div>
+    </div>
+  
+    <div class="card" id="card-35">
+      <img src="/assets/real/gemini2/p25.png" alt="p25.png" />
+      <div class="num">#36</div>
+      <div class="name">p25.png</div>
+    </div>
+  
+    <div class="card" id="card-36">
+      <img src="/assets/real/gemini2/p26(2).png" alt="p26(2).png" />
+      <div class="num">#37</div>
+      <div class="name">p26(2).png</div>
+    </div>
+  
+    <div class="card" id="card-37">
+      <img src="/assets/real/gemini2/p26.png" alt="p26.png" />
+      <div class="num">#38</div>
+      <div class="name">p26.png</div>
+    </div>
+  
+    <div class="card" id="card-38">
+      <img src="/assets/real/gemini2/p27(1) hero.png" alt="p27(1) hero.png" />
+      <div class="num">#39</div>
+      <div class="name">p27(1) hero.png</div>
+    </div>
+  
+    <div class="card" id="card-39">
+      <img src="/assets/real/gemini2/p27.png" alt="p27.png" />
+      <div class="num">#40</div>
+      <div class="name">p27.png</div>
+    </div>
+  
+    <div class="card" id="card-40">
+      <img src="/assets/real/gemini2/p28(2).png" alt="p28(2).png" />
+      <div class="num">#41</div>
+      <div class="name">p28(2).png</div>
+    </div>
+  
+    <div class="card" id="card-41">
+      <img src="/assets/real/gemini2/p28(hero).png" alt="p28(hero).png" />
+      <div class="num">#42</div>
+      <div class="name">p28(hero).png</div>
+    </div>
+  
+    <div class="card" id="card-42">
+      <img src="/assets/real/gemini2/p29 (2).png" alt="p29 (2).png" />
+      <div class="num">#43</div>
+      <div class="name">p29 (2).png</div>
+    </div>
+  
+    <div class="card" id="card-43">
+      <img src="/assets/real/gemini2/p29(hero).png" alt="p29(hero).png" />
+      <div class="num">#44</div>
+      <div class="name">p29(hero).png</div>
+    </div>
+  
+    <div class="card" id="card-44">
+      <img src="/assets/real/gemini2/p3(2).png" alt="p3(2).png" />
+      <div class="num">#45</div>
+      <div class="name">p3(2).png</div>
+    </div>
+  
+    <div class="card" id="card-45">
+      <img src="/assets/real/gemini2/p3.png" alt="p3.png" />
+      <div class="num">#46</div>
+      <div class="name">p3.png</div>
+    </div>
+  
+    <div class="card" id="card-46">
+      <img src="/assets/real/gemini2/p30(hero).png" alt="p30(hero).png" />
+      <div class="num">#47</div>
+      <div class="name">p30(hero).png</div>
+    </div>
+  
+    <div class="card" id="card-47">
+      <img src="/assets/real/gemini2/p31(2).jpg" alt="p31(2).jpg" />
+      <div class="num">#48</div>
+      <div class="name">p31(2).jpg</div>
+    </div>
+  
+    <div class="card" id="card-48">
+      <img src="/assets/real/gemini2/p31.jpg" alt="p31.jpg" />
+      <div class="num">#49</div>
+      <div class="name">p31.jpg</div>
+    </div>
+  
+    <div class="card" id="card-49">
+      <img src="/assets/real/gemini2/p32 hero.jpg" alt="p32 hero.jpg" />
+      <div class="num">#50</div>
+      <div class="name">p32 hero.jpg</div>
+    </div>
+  
+    <div class="card" id="card-50">
+      <img src="/assets/real/gemini2/p32(2) hero.jpg" alt="p32(2) hero.jpg" />
+      <div class="num">#51</div>
+      <div class="name">p32(2) hero.jpg</div>
+    </div>
+  
+    <div class="card" id="card-51">
+      <img src="/assets/real/gemini2/p33(2).jpg" alt="p33(2).jpg" />
+      <div class="num">#52</div>
+      <div class="name">p33(2).jpg</div>
+    </div>
+  
+    <div class="card" id="card-52">
+      <img src="/assets/real/gemini2/p33(hero).jpg" alt="p33(hero).jpg" />
+      <div class="num">#53</div>
+      <div class="name">p33(hero).jpg</div>
+    </div>
+  
+    <div class="card" id="card-53">
+      <img src="/assets/real/gemini2/p34(2).jpg" alt="p34(2).jpg" />
+      <div class="num">#54</div>
+      <div class="name">p34(2).jpg</div>
+    </div>
+  
+    <div class="card" id="card-54">
+      <img src="/assets/real/gemini2/p34.jpg" alt="p34.jpg" />
+      <div class="num">#55</div>
+      <div class="name">p34.jpg</div>
+    </div>
+  
+    <div class="card" id="card-55">
+      <img src="/assets/real/gemini2/p36.jpg" alt="p36.jpg" />
+      <div class="num">#56</div>
+      <div class="name">p36.jpg</div>
+    </div>
+  
+    <div class="card" id="card-56">
+      <img src="/assets/real/gemini2/p37 (1).jpg" alt="p37 (1).jpg" />
+      <div class="num">#57</div>
+      <div class="name">p37 (1).jpg</div>
+    </div>
+  
+    <div class="card" id="card-57">
+      <img src="/assets/real/gemini2/p38(1).jpg" alt="p38(1).jpg" />
+      <div class="num">#58</div>
+      <div class="name">p38(1).jpg</div>
+    </div>
+  
+    <div class="card" id="card-58">
+      <img src="/assets/real/gemini2/p38(2).jpg" alt="p38(2).jpg" />
+      <div class="num">#59</div>
+      <div class="name">p38(2).jpg</div>
+    </div>
+  
+    <div class="card" id="card-59">
+      <img src="/assets/real/gemini2/p39(2).jpg" alt="p39(2).jpg" />
+      <div class="num">#60</div>
+      <div class="name">p39(2).jpg</div>
+    </div>
+  
+    <div class="card" id="card-60">
+      <img src="/assets/real/gemini2/p39.jpg" alt="p39.jpg" />
+      <div class="num">#61</div>
+      <div class="name">p39.jpg</div>
+    </div>
+  
+    <div class="card" id="card-61">
+      <img src="/assets/real/gemini2/p4(2).png" alt="p4(2).png" />
+      <div class="num">#62</div>
+      <div class="name">p4(2).png</div>
+    </div>
+  
+    <div class="card" id="card-62">
+      <img src="/assets/real/gemini2/p4.png" alt="p4.png" />
+      <div class="num">#63</div>
+      <div class="name">p4.png</div>
+    </div>
+  
+    <div class="card" id="card-63">
+      <img src="/assets/real/gemini2/p40(2).jpg" alt="p40(2).jpg" />
+      <div class="num">#64</div>
+      <div class="name">p40(2).jpg</div>
+    </div>
+  
+    <div class="card" id="card-64">
+      <img src="/assets/real/gemini2/p40.jpg" alt="p40.jpg" />
+      <div class="num">#65</div>
+      <div class="name">p40.jpg</div>
+    </div>
+  
+    <div class="card" id="card-65">
+      <img src="/assets/real/gemini2/p41(2).jpg" alt="p41(2).jpg" />
+      <div class="num">#66</div>
+      <div class="name">p41(2).jpg</div>
+    </div>
+  
+    <div class="card" id="card-66">
+      <img src="/assets/real/gemini2/p41(hero).jpg" alt="p41(hero).jpg" />
+      <div class="num">#67</div>
+      <div class="name">p41(hero).jpg</div>
+    </div>
+  
+    <div class="card" id="card-67">
+      <img src="/assets/real/gemini2/p5(2).png" alt="p5(2).png" />
+      <div class="num">#68</div>
+      <div class="name">p5(2).png</div>
+    </div>
+  
+    <div class="card" id="card-68">
+      <img src="/assets/real/gemini2/p5.png" alt="p5.png" />
+      <div class="num">#69</div>
+      <div class="name">p5.png</div>
+    </div>
+  
+    <div class="card" id="card-69">
+      <img src="/assets/real/gemini2/p6(2).png" alt="p6(2).png" />
+      <div class="num">#70</div>
+      <div class="name">p6(2).png</div>
+    </div>
+  
+    <div class="card" id="card-70">
+      <img src="/assets/real/gemini2/p6.png" alt="p6.png" />
+      <div class="num">#71</div>
+      <div class="name">p6.png</div>
+    </div>
+  
+    <div class="card" id="card-71">
+      <img src="/assets/real/gemini2/p7(2).png" alt="p7(2).png" />
+      <div class="num">#72</div>
+      <div class="name">p7(2).png</div>
+    </div>
+  
+    <div class="card" id="card-72">
+      <img src="/assets/real/gemini2/p7.png" alt="p7.png" />
+      <div class="num">#73</div>
+      <div class="name">p7.png</div>
+    </div>
+  
+    <div class="card" id="card-73">
+      <img src="/assets/real/gemini2/p8(2).png" alt="p8(2).png" />
+      <div class="num">#74</div>
+      <div class="name">p8(2).png</div>
+    </div>
+  
+    <div class="card" id="card-74">
+      <img src="/assets/real/gemini2/p8.png" alt="p8.png" />
+      <div class="num">#75</div>
+      <div class="name">p8.png</div>
+    </div>
+  
+    <div class="card" id="card-75">
+      <img src="/assets/real/gemini2/p9(2).png" alt="p9(2).png" />
+      <div class="num">#76</div>
+      <div class="name">p9(2).png</div>
+    </div>
+  
+    <div class="card" id="card-76">
+      <img src="/assets/real/gemini2/p9.png" alt="p9.png" />
+      <div class="num">#77</div>
+      <div class="name">p9.png</div>
+    </div>
+  
+  </div>
+</body>
+</html>

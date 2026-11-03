@@ -1,0 +1,42 @@
+export const categories = [
+  {
+    id: 'living-room',
+    slug: 'living-room',
+    name: 'Living Room',
+    description: 'Sculptural seating, coffee tables, and architectural cabinetry designed for gathering and repose.',
+    image: '/assets/real/main page image.jpeg',
+    productCount: 14,
+  },
+  {
+    id: 'dining',
+    slug: 'dining',
+    name: 'Dining & Feasting',
+    description: 'Heirloom solid wood dining tables and ergonomic hand-caned seating crafted for lifelong communal moments.',
+    image: '/assets/real/Furniture Lifestyle Scene - Dining Area.png',
+    productCount: 14,
+  },
+  {
+    id: 'bedroom',
+    slug: 'bedroom',
+    name: 'Bedroom Sanctuary',
+    description: 'Platform beds, tactile dressers, and bedside companions in teak, oak, and woven rush.',
+    image: '/assets/real/Furniture Lifestyle Scene - Bedroom.png',
+    productCount: 8,
+  },
+  {
+    id: 'workspace',
+    slug: 'workspace',
+    name: 'Atelier & Workspace',
+    description: 'Minimalist writing bureaus, credenzas, and focused task surfaces built for unhurried creativity.',
+    image: '/assets/real/gemini2/p40.jpg',
+    productCount: 2,
+  },
+  {
+    id: 'decor',
+    slug: 'decor',
+    name: 'Lighting & Accents',
+    description: 'Hand-cast brass lamps, sculpted stoneware vessels, and raw linen textiles.',
+    image: '/assets/real/Furniture Close-up - Wood Grain Detail.png',
+    productCount: 2,
+  },
+];

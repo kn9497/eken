@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Visual Matcher</title>
+  <style>
+    body { font-family: system-ui, sans-serif; background: #0b0f19; color: #f1f5f9; padding: 20px; }
+    .row { display: flex; gap: 20px; border-bottom: 1px solid #1e293b; padding: 15px 0; align-items: center; }
+    .img-box { display: flex; gap: 10px; min-width: 420px; }
+    .img-box img { width: 190px; height: 240px; object-fit: contain; background: #fff; border-radius: 4px; }
+    .info { flex: 1; }
+    .tag { font-weight: bold; font-size: 16px; color: #38bdf8; margin-bottom: 6px; }
+    .files { font-size: 12px; color: #94a3b8; margin-bottom: 8px; }
+    select { background: #1e293b; color: #fff; border: 1px solid #475569; padding: 8px; border-radius: 4px; font-size: 14px; width: 100%; max-width: 500px; }
+  </style>
+</head>
+<body>
+  <h1>EKEN Gemini 2 Visual Matcher (41 image groups)</h1>
+
+    <div class="row" id="row-p1">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p1(2).png" title="p1(2).png" /><img src="/assets/real/gemini2/p1.png" title="p1.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p1</div>
+        <div class="files">p1(2).png, p1.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p2">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p2(2).png" title="p2(2).png" /><img src="/assets/real/gemini2/p2.png" title="p2.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p2</div>
+        <div class="files">p2(2).png, p2.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p3">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p3(2).png" title="p3(2).png" /><img src="/assets/real/gemini2/p3.png" title="p3.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p3</div>
+        <div class="files">p3(2).png, p3.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p4">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p4(2).png" title="p4(2).png" /><img src="/assets/real/gemini2/p4.png" title="p4.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p4</div>
+        <div class="files">p4(2).png, p4.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p5">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p5(2).png" title="p5(2).png" /><img src="/assets/real/gemini2/p5.png" title="p5.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p5</div>
+        <div class="files">p5(2).png, p5.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p6">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p6(2).png" title="p6(2).png" /><img src="/assets/real/gemini2/p6.png" title="p6.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p6</div>
+        <div class="files">p6(2).png, p6.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p7">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p7(2).png" title="p7(2).png" /><img src="/assets/real/gemini2/p7.png" title="p7.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p7</div>
+        <div class="files">p7(2).png, p7.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p8">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p8(2).png" title="p8(2).png" /><img src="/assets/real/gemini2/p8.png" title="p8.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p8</div>
+        <div class="files">p8(2).png, p8.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p9">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p9(2).png" title="p9(2).png" /><img src="/assets/real/gemini2/p9.png" title="p9.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p9</div>
+        <div class="files">p9(2).png, p9.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p10">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p10(2).png" title="p10(2).png" /><img src="/assets/real/gemini2/p10.png" title="p10.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p10</div>
+        <div class="files">p10(2).png, p10.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p11">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p11(2).png" title="p11(2).png" /><img src="/assets/real/gemini2/p11.png" title="p11.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p11</div>
+        <div class="files">p11(2).png, p11.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p12">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p12(2).png" title="p12(2).png" /><img src="/assets/real/gemini2/p12.png" title="p12.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p12</div>
+        <div class="files">p12(2).png, p12.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p13">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p13(2).png" title="p13(2).png" /><img src="/assets/real/gemini2/p13.png" title="p13.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p13</div>
+        <div class="files">p13(2).png, p13.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p14">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p14(2).png" title="p14(2).png" /><img src="/assets/real/gemini2/p14.png" title="p14.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p14</div>
+        <div class="files">p14(2).png, p14.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p15">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p15(2).png" title="p15(2).png" /><img src="/assets/real/gemini2/p15.png" title="p15.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p15</div>
+        <div class="files">p15(2).png, p15.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p16">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p16(2).png" title="p16(2).png" /><img src="/assets/real/gemini2/p16.png" title="p16.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p16</div>
+        <div class="files">p16(2).png, p16.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p17">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p17.png" title="p17.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p17</div>
+        <div class="files">p17.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p18">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p18(2).png" title="p18(2).png" /><img src="/assets/real/gemini2/p18.png" title="p18.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p18</div>
+        <div class="files">p18(2).png, p18.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p19">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p19(2).png" title="p19(2).png" /><img src="/assets/real/gemini2/p19.png" title="p19.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p19</div>
+        <div class="files">p19(2).png, p19.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p20">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/hero p20(2).png" title="hero p20(2).png" /><img src="/assets/real/gemini2/hero p20.png" title="hero p20.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p20</div>
+        <div class="files">hero p20(2).png, hero p20.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p21">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p21(2).png" title="p21(2).png" /><img src="/assets/real/gemini2/p21.png" title="p21.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p21</div>
+        <div class="files">p21(2).png, p21.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p22">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p22(2).png" title="p22(2).png" /><img src="/assets/real/gemini2/p22.png" title="p22.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p22</div>
+        <div class="files">p22(2).png, p22.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p23">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p23 hero.png" title="p23 hero.png" /><img src="/assets/real/gemini2/p23(2).png" title="p23(2).png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p23</div>
+        <div class="files">p23 hero.png, p23(2).png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p24">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p24 hero.png" title="p24 hero.png" /><img src="/assets/real/gemini2/p24(2) hero.png" title="p24(2) hero.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p24</div>
+        <div class="files">p24 hero.png, p24(2) hero.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p25">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p25(2).png" title="p25(2).png" /><img src="/assets/real/gemini2/p25.png" title="p25.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p25</div>
+        <div class="files">p25(2).png, p25.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p26">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p26(2).png" title="p26(2).png" /><img src="/assets/real/gemini2/p26.png" title="p26.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p26</div>
+        <div class="files">p26(2).png, p26.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p27">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p27(1) hero.png" title="p27(1) hero.png" /><img src="/assets/real/gemini2/p27.png" title="p27.png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p27</div>
+        <div class="files">p27(1) hero.png, p27.png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p28">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p28(2).png" title="p28(2).png" /><img src="/assets/real/gemini2/p28(hero).png" title="p28(hero).png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p28</div>
+        <div class="files">p28(2).png, p28(hero).png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p29">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p29 (2).png" title="p29 (2).png" /><img src="/assets/real/gemini2/p29(hero).png" title="p29(hero).png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p29</div>
+        <div class="files">p29 (2).png, p29(hero).png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p30">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p30(hero).png" title="p30(hero).png" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p30</div>
+        <div class="files">p30(hero).png</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p31">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p31(2).jpg" title="p31(2).jpg" /><img src="/assets/real/gemini2/p31.jpg" title="p31.jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p31</div>
+        <div class="files">p31(2).jpg, p31.jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p32">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p32 hero.jpg" title="p32 hero.jpg" /><img src="/assets/real/gemini2/p32(2) hero.jpg" title="p32(2) hero.jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p32</div>
+        <div class="files">p32 hero.jpg, p32(2) hero.jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p33">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p33(2).jpg" title="p33(2).jpg" /><img src="/assets/real/gemini2/p33(hero).jpg" title="p33(hero).jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p33</div>
+        <div class="files">p33(2).jpg, p33(hero).jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p34">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p34(2).jpg" title="p34(2).jpg" /><img src="/assets/real/gemini2/p34.jpg" title="p34.jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p34</div>
+        <div class="files">p34(2).jpg, p34.jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-best35">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/best hero 35.jpg" title="best hero 35.jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: best35</div>
+        <div class="files">best hero 35.jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p36">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p36.jpg" title="p36.jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p36</div>
+        <div class="files">p36.jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p37">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p37 (1).jpg" title="p37 (1).jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p37</div>
+        <div class="files">p37 (1).jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p38">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p38(1).jpg" title="p38(1).jpg" /><img src="/assets/real/gemini2/p38(2).jpg" title="p38(2).jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p38</div>
+        <div class="files">p38(1).jpg, p38(2).jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p39">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p39(2).jpg" title="p39(2).jpg" /><img src="/assets/real/gemini2/p39.jpg" title="p39.jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p39</div>
+        <div class="files">p39(2).jpg, p39.jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p40">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p40(2).jpg" title="p40(2).jpg" /><img src="/assets/real/gemini2/p40.jpg" title="p40.jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p40</div>
+        <div class="files">p40(2).jpg, p40.jpg</div>
+      </div>
+    </div>
+  
+    <div class="row" id="row-p41">
+      <div class="img-box">
+        <img src="/assets/real/gemini2/p41(2).jpg" title="p41(2).jpg" /><img src="/assets/real/gemini2/p41(hero).jpg" title="p41(hero).jpg" />
+      </div>
+      <div class="info">
+        <div class="tag">Group: p41</div>
+        <div class="files">p41(2).jpg, p41(hero).jpg</div>
+      </div>
+    </div>
+  
+</body>
+</html>

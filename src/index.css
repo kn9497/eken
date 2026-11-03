@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #1E140E;
+    --color-primary-dark: #161311;
+    --color-primary-container: #2B231D;
+    
+    --color-secondary: #D1405D;
+    --color-secondary-hover: #B12747;
+    --color-secondary-light: #FFD9DC;
+    
+    --color-tertiary: #BA8888;
+    --color-tertiary-container: #311213;
+    
+    --color-surface: #FAF8F5;
+    --color-surface-container: #F2EDE4;
+    --color-surface-low: #F6F3EE;
+    --color-surface-high: #E8E2D8;
+    --color-surface-dark: #161311;
+    --color-surface-limestone: #E1DFDC;
+    --color-surface-parchment: #F5F2ED;
+    
+    --color-accent: #58150E;
+    --color-accent-gold: #CEA642;
+    
+    --color-on-surface: #1E140E;
+    --color-on-surface-variant: #4E4540;
+    --color-on-surface-muted: #7A706A;
+    
+    --color-outline: #80756F;
+    --color-outline-variant: #D1C4BD;
+    --color-outline-subtle: rgba(30, 20, 14, 0.08);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    color: var(--color-on-surface);
+    background-color: var(--color-surface);
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+  }
+
+  /* Accessible focus indicators: 2px offset solid outline */
+  *:focus-visible {
+    outline: 2px solid #58150E;
+    outline-offset: 2px;
+  }
+
+  /* Heading typography */
+  h1, h2, h3, .font-serif, .font-display {
+    font-family: 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Continuous horizontal review animation (Left to Right) */
+@keyframes marquee-ltr {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.animate-marquee-ltr {
+  display: flex;
+  width: max-content;
+  animation: marquee-ltr 45s linear infinite;
+  will-change: transform;
+}
+
+.animate-marquee-ltr:hover,
+.animate-marquee-ltr:focus-within {
+  animation-play-state: paused;
+}
+

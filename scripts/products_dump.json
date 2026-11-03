@@ -1,0 +1,282 @@
+[
+  {
+    "num": 1,
+    "title": "Eken Narmada Sideboard",
+    "desc": "Minimalist credenza in solid Sheesham wood with an amber walnut finish. Features four doors with hand-carved vertical ribbed fluting and inlaid aged brass strips, supported by a tapered wooden leg chassis with cross-bracing.",
+    "prompt": "Eken Narmada Sideboard, 64-inch modern credenza, solid Sheesham wood in dark amber walnut finish, 4 cabinet doors with vertical ribbed fluting and inlaid aged brass vertical strips, tapered wooden leg chassis, warm plaster background, 4:5 vertical aspect ratio.",
+    "mat": "Solid Sheesham Wood (Amber Walnut finish), Aged Brass Inlays."
+  },
+  {
+    "num": 2,
+    "title": "Eken Betwa Accent Stool",
+    "desc": "Cylindrical drum stool with a smooth solid mango wood top disc, a main body wrapped in natural handwoven rattan cane lattice, and a base ring detailed with vertical fluted carving.",
+    "prompt": "Eken Betwa Accent Stool, cylindrical drum stool, solid natural mango wood top disc, body wrapped in fine handwoven natural rattan cane lattice, base ring with vertical fluted carving, studio setting, 4:5 ratio.",
+    "mat": "Solid Mango Wood (Natural Amber finish), Natural Rattan Cane."
+  },
+  {
+    "num": 3,
+    "title": "Eken Ken Two-Seater Sofa",
+    "desc": "Mid-century Scandinavian sofa with an exposed light teak mango wood frame, natural woven rattan cane side arm panels, and deep forest green linen seat and back cushions.    watermarked_img_14369196651993224921.png",
+    "prompt": "Eken Ken Two-Seater Sofa, exposed light teak mango wood frame, side arm panels inset with natural woven rattan cane, plush deep forest green linen cushions, living room studio context, 4:5 ratio.",
+    "mat": "Solid Mango Wood (Light Teak finish), Rattan Cane, Forest Green Linen."
+  },
+  {
+    "num": 4,
+    "title": "Eken Indus Lounge Chair",
+    "desc": "Low-slung lounge chair built from sculpted natural teak, featuring natural saddle leather support straps and removable cushions upholstered in terracotta and beige geometric block-print textile.    watermarked_img_5636323783504522947.png + 1",
+    "prompt": "Eken Indus Lounge Chair, low-profile lounge seating, sculpted natural teak wood frame, seat supported by natural leather straps, terracotta and beige geometric block-print woven textile cushions, high-end studio photography, 4:5 ratio.",
+    "mat": "Solid Indian Teak Wood, Saddle Leather Straps, Terracotta/Beige Block-Print Fabric."
+  },
+  {
+    "num": 5,
+    "title": "Eken Narmada Accent Chair",
+    "desc": "Club armchair featuring an exposed amber walnut mango wood frame, natural woven rattan cane side arm inserts, and olive green velvet cushioning.    watermarked_img_13671941871302793615.png + 1",
+    "prompt": "Eken Narmada Accent Chair, club armchair silhouette, exposed amber walnut mango wood frame, natural woven cane arm inserts, deep olive green velvet upholstery, clean plaster studio environment, 4:5 vertical aspect ratio.",
+    "mat": "Solid Mango Wood (Amber Walnut finish), Natural Rattan Cane, Olive Green Velvet."
+  },
+  {
+    "num": 6,
+    "title": "Eken Kaveri Armchair",
+    "desc": "Barrel-back armchair in matte natural teak with a continuous curved backrest enclosing a natural woven rattan cane panel, with a sand-beige linen seat pad.",
+    "prompt": "Eken Kaveri Armchair, barrel back armchair silhouette, smooth natural teak frame, continuous curved woven cane back panel, sand beige linen seat cushion, ivory plaster backdrop, 4:5 vertical product photograph.",
+    "mat": "Solid Teak Wood, Natural Rattan Cane, Sand-Beige Linen."
+  },
+  {
+    "num": 7,
+    "title": "Eken Godavari Oval Coffee Table",
+    "desc": "Oval center table in solid Sheesham wood with an amber walnut finish, featuring an inset top of honed Jaisalmer yellow sandstone and vertical fluted wooden legs.",
+    "prompt": "Eken Godavari Oval Coffee Table, amber walnut Sheesham wood frame, oval honed yellow sandstone inset tabletop, vertical fluted carved wooden legs, warm studio background, stone floor, 4:5 aspect ratio.",
+    "mat": "Solid Sheesham Wood (Amber Walnut finish), Honed Jaisalmer Sandstone Top."
+  },
+  {
+    "num": 8,
+    "title": "Eken Malabar Armchair (Magnesium Hybrid)",
+    "desc": "High-back armchair combining dark walnut Sheesham wood armrests with hand-carved arch reliefs, a satin charcoal magnesium alloy cantilever chassis, and olive green leather cushions.",
+    "prompt": "Eken Malabar Armchair, dark walnut Sheesham wood frame with carved arch relief armrests, satin charcoal magnesium alloy cantilever leg chassis, muted olive green leather cushions, warm studio backdrop, 4:5 ratio.",
+    "mat": "Dark Walnut Sheesham Wood, Satin Charcoal Magnesium Alloy, Olive Green Leather."
+  },
+  {
+    "num": 9,
+    "title": "Eken Godavari Lounge Chair (Magnesium Hybrid)",
+    "desc": "Sculptural teak shell supported by a curved champagne-gold magnesium alloy base chassis, featuring rattan cane side web and indigo raw silk cushions with gold/terracotta block prints.",
+    "prompt": "Eken Godavari Lounge Chair, sculptural teak wood shell with cane side panels, satin champagne gold magnesium alloy curved leg base, indigo blue block-printed raw silk cushions, neutral studio environment, 4:5 vertical.",
+    "mat": "Solid Teak Wood, Champagne Gold Magnesium Alloy Base, Indigo Block-Printed Raw Silk, Rattan Cane."
+  },
+  {
+    "num": 10,
+    "title": "Eken Narmada 4-Seater Grand Sofa",
+    "desc": "102-inch grand sofa constructed on a satin charcoal magnesium alloy base chassis, with an Amber Walnut Sheesham wood top rail, hand-carved jaali apron, rattan cane arms, and forest green velvet upholstery.",
+    "prompt": "Eken Narmada 4-Seater Grand Sofa, 102-inch modern sofa, satin charcoal magnesium alloy leg frame, amber walnut Sheesham wood outer trim with carved jaali apron border, rattan cane arm panels, forest green velvet cushions, studio background, 4:5 ratio.",
+    "mat": "Charcoal Magnesium Alloy, Solid Sheesham Wood, Rattan Cane, Forest Green Velvet."
+  },
+  {
+    "num": 11,
+    "title": "Eken Kaveri Executive Swivel Lounge Chair",
+    "desc": "Executive swivel chair featuring a dark walnut teak shell, a splayed 4-star champagne-gold magnesium alloy base, and channel-tufted muted terracotta leather cushions.",
+    "prompt": "Eken Kaveri Executive Swivel Lounge Chair, sculpted dark walnut teak wood shell, 4-star splayed champagne gold magnesium alloy swivel base, channel-tufted muted terracotta leather upholstery, studio corner, 4:5 ratio.",
+    "mat": "Solid Teak Wood (Dark Walnut finish), Champagne Gold Magnesium Alloy Base, Muted Terracotta Leather."
+  },
+  {
+    "num": 12,
+    "title": "Eken Kaveri Daybed",
+    "desc": "Sculpted Sheesham wood daybed frame in amber walnut finish, featuring full-length rattan cane side arm panels and a mattress upholstered in textured forest green linen.",
+    "prompt": "Eken Kaveri Daybed, solid Sheesham wood frame in amber walnut finish, natural woven rattan cane side arm panels, textured forest green linen mattress, warm plaster studio environment, 4:5 vertical aspect ratio.",
+    "mat": "Solid Sheesham Wood, Natural Rattan Cane, Forest Green Linen."
+  },
+  {
+    "num": 13,
+    "title": "Eken Royal Amber Leather Lounge Chair",
+    "desc": "Single-person lounge chair crafted from amber walnut teak wood, featuring debossed geometric cognac tan leather cushions supported by a champagne magnesium alloy chassis.",
+    "prompt": "Eken Royal Amber Leather Lounge Chair, single-person lounge seating, low three-quarter perspective, sculpted amber walnut teak frame, cognac tan full-grain leather cushions with debossed geometric motifs, champagne magnesium alloy base chassis, warm plaster studio environment, 4:5 vertical aspect ratio.",
+    "mat": "Solid Teak Wood, Champagne Magnesium Alloy Base, Cognac Tan Full-Grain Leather."
+  },
+  {
+    "num": 14,
+    "title": "Eken Indus Low Lounge Table & Magnesium Chair Set",
+    "desc": "Low lounge coffee table set featuring an oval teak table with white Banswara marble inset, paired with two low cantilever chairs combining dark walnut shells, satin charcoal magnesium bases, and debossed cognac leather cushions.",
+    "prompt": "Eken Indus Low Lounge Table & Magnesium Chair Set, oval low teak coffee table with white marble top inset, 2 low cantilever lounge chairs with satin charcoal magnesium alloy chassis, dark walnut trim, and cognac tan debossed leather cushions, studio corner, 4:5 vertical.",
+    "mat": "Teak & Walnut Wood, Banswara Marble, Charcoal Magnesium Alloy, Cognac Leather."
+  },
+  {
+    "num": 15,
+    "title": "Eken Kaveri 4-Seater Dining Bench",
+    "desc": "68-inch modern bench in solid Teak wood with an amber walnut finish, supported by a satin champagne-gold magnesium alloy leg chassis, with a carved jaali wooden apron and forest green velvet cushion.",
+    "prompt": "Eken Kaveri 4-Seater Dining Bench, 68-inch modern dining bench, solid teak wood in amber walnut finish, satin champagne gold magnesium alloy leg chassis, seat upholstered in deep forest green velvet, carved jaali fluting along wood apron, travertine floor, 4:5 vertical aspect ratio.",
+    "mat": "Solid Teak Wood, Satin Champagne Magnesium Alloy, Deep Forest Green Velvet."
+  },
+  {
+    "num": 16,
+    "title": "Eken Indus Low-Slung Lounge Chair (Magnesium Hybrid)",
+    "desc": "Low-slung lounge chair with a dark walnut Sheesham wood shell on a curved satin charcoal magnesium alloy cantilever base, with woven cane side panels and muted terracotta leather cushions.",
+    "prompt": "Eken Indus Low-Slung Lounge Chair, single-person accent chair, dark walnut Sheesham wood shell on curved satin charcoal magnesium alloy cantilever base, natural woven rattan cane side panels, muted terracotta leather cushions, minimal studio wall backdrop, 4:5 vertical aspect ratio. II. Dining Room Collection",
+    "mat": "Solid Sheesham Wood, Charcoal Magnesium Alloy, Natural Rattan Cane, Terracotta Leather."
+  },
+  {
+    "num": 17,
+    "title": "Eken Gomati Dining Chair",
+    "desc": "Dining chair crafted from dark walnut Sheesham wood with an arched rear leg structure and a wrapped backrest in burnt terracotta linen.",
+    "prompt": "Eken Gomati Dining Chair, dark walnut Sheesham frame with arched rear leg support, curved backrest wrapped in burnt terracotta linen upholstery, minimal studio backdrop, 4:5 ratio.",
+    "mat": "Dark Walnut Sheesham Wood, Burnt Terracotta Linen."
+  },
+  {
+    "num": 18,
+    "title": "Eken Krishna Bar Cabinet",
+    "desc": "Dark walnut Sheesham bar armoire set on an aged brass leg frame, featuring etched geometric jaali doors with inlaid brass wire patterns.    watermarked_img_11902961730092161892.png + 1",
+    "prompt": "Eken Krishna Bar Cabinet, dark walnut Sheesham bar armoire, doors etched with geometric jaali pattern and brass wire inlays, slim aged brass leg frame base, studio lighting, 4:5 aspect ratio.",
+    "mat": "Solid Sheesham Wood, Brass Wire Inlays, Aged Brass Base Frame."
+  },
+  {
+    "num": 19,
+    "title": "Eken Indus 8-Seater Dining Table",
+    "desc": "84-inch rectangular dining table crafted from long-grain natural Indian Teak wood, featuring hand-carved arch aprons running under all sides.",
+    "prompt": "Eken Indus 8-Seater Dining Table, 84-inch rectangular solid natural teak table, hand-carved arch motif aprons, straight tapered wooden legs, sand beige studio setting, 4:5 aspect ratio.",
+    "mat": "Solid Indian Teak Wood (Natural finish)."
+  },
+  {
+    "num": 20,
+    "title": "Eken Krishna Dining Chairs (Pair)",
+    "desc": "Pair of natural teak dining chairs with square woven rattan cane backrests and padded seats in dark forest green and gold block-printed cotton.",
+    "prompt": "Eken Krishna Dining Chairs, natural teak wood frames, woven cane square backrests, seat cushions upholstered in dark forest green and gold block-print cotton pattern, studio backdrop, 4:5 vertical.",
+    "mat": "Natural Teak Wood, Woven Rattan Cane, Forest Green/Gold Block-Printed Cotton."
+  },
+  {
+    "num": 21,
+    "title": "Eken Maru Dining Set (Magnesium Hybrid)",
+    "desc": "48-inch round dark walnut mango wood table with a champagne magnesium alloy leg chassis, paired with 4 cane-back chairs with olive velvet seats.",
+    "prompt": "Eken Maru Dining Set, 48-inch round dark walnut top dining table with champagne gold magnesium alloy leg base, 4 matching dining chairs with cane backrests and olive green velvet cushions, studio background, 4:5 ratio.",
+    "mat": "Mango Wood (Dark Walnut finish), Champagne Gold Magnesium Alloy, Rattan Cane, Olive Velvet."
+  },
+  {
+    "num": 22,
+    "title": "Eken Coromandel 6-Seater Dining Table",
+    "desc": "72-inch rectangular dining table featuring an inset top of honed white Banswara marble, surrounded by a warm oak rim and a champagne magnesium alloy apron.",
+    "prompt": "Eken Coromandel 6-Seater Dining Table, white Banswara marble inset top, warm oak rounded wood rim, brushed champagne magnesium alloy apron frame, light oak floor background, studio lighting, 4:5 vertical.",
+    "mat": "Honed White Banswara Marble, Warm Oak Wood, Champagne Magnesium Alloy."
+  },
+  {
+    "num": 23,
+    "title": "Eken Yamuna Dining Set",
+    "desc": "Polished teak table with a champagne-gold magnesium alloy apron and leg chassis, surrounded by 6 chairs with champagne magnesium legs, cane backs, and rust raw silk pads.",
+    "prompt": "Eken Yamuna Dining Set, 6-seater polished teak table with champagne gold magnesium alloy frame, 6 matching chairs with woven rattan cane backrests and rust raw silk seat pads, warm plaster wall backdrop, 4:5 ratio.",
+    "mat": "Solid Teak Wood, Champagne Gold Magnesium Alloy, Rattan Cane, Rust Raw Silk."
+  },
+  {
+    "num": 24,
+    "title": "Eken Betwa 8-Seater Grand Dining Set",
+    "desc": "96-inch rectangular teak dining table with white Banswara marble inset and champagne magnesium foot ferrules, paired with 8 cane-back chairs with indigo raw silk seats.",
+    "prompt": "Eken Betwa 8-Seater Grand Dining Set, 96-inch teak dining table with white Banswara marble inset top and champagne gold magnesium leg ferrules, 8 matching chairs with cane backrests and indigo raw silk cushions, grey marble floor background, 4:5 ratio.",
+    "mat": "Teak Wood (Amber Walnut finish), White Banswara Marble, Magnesium Ferrules, Rattan Cane, Indigo Raw Silk."
+  },
+  {
+    "num": 25,
+    "title": "Eken Compact Bistro Set (2-Person)",
+    "desc": "2-person dinette featuring a 32-inch round teak pedestal table and two matching chairs with handwoven natural rattan cane backrests and sand-beige linen cushions.",
+    "prompt": "Eken Compact Bistro Set, 32-inch round teak pedestal dining table, 2 matching bistro chairs with arched rattan cane backrests and sand beige linen seat pads, bright studio lighting, 4:5 ratio.",
+    "mat": "Solid Teak Wood, Natural Rattan Cane, Sand-Beige Linen."
+  },
+  {
+    "num": 26,
+    "title": "Eken Small Apartment Dinette (2-Person)",
+    "desc": "Square dark walnut Sheesham wood table paired with two forest green velvet dining chairs featuring vertical channel tufting and tapered brass legs.",
+    "prompt": "Eken Small Apartment Dinette, square dark walnut Sheesham dining table, 2 forest green velvet dining chairs with vertical channel tufting and tapered brass legs, minimalist plaster wall backdrop, 4:5 vertical.",
+    "mat": "Solid Sheesham Wood (Dark Walnut finish), Forest Green Velvet, Tapered Brass Legs."
+  },
+  {
+    "num": 27,
+    "title": "Eken Sculptural Molded Teak Set (2-Person)",
+    "desc": "Round teak pedestal table paired with two ergonomic molded teak plywood chairs with backrest cutouts, terracotta seat cushions, and slim brass legs.",
+    "prompt": "Eken Sculptural Molded Teak Set, round teak wood pedestal table, 2 ergonomic molded teak plywood chairs with backrest cutouts and terracotta fabric seat cushions, slim brass legs, studio setting, 4:5 ratio.",
+    "mat": "Molded Teak Plywood, Solid Teak Pedestal, Terracotta Fabric, Brass Legs."
+  },
+  {
+    "num": 28,
+    "title": "Eken Indus Dining Chair (Dabu Print)",
+    "desc": "Straight-on elevation dining chair built with a curved teak frame, cushioned seat and backrest upholstered in traditional indigo Dabu geometric block-printed cotton canvas.",
+    "prompt": "Eken Indus Dining Chair, front elevation view, curved natural teak wood frame, cushioned seat and backrest upholstered in traditional indigo Dabu geometric block-printed cotton canvas, studio backdrop, 4:5 vertical aspect ratio.",
+    "mat": "Solid Teak Wood, Indigo Dabu Block-Printed Cotton Canvas, High-Density Foam."
+  },
+  {
+    "num": 29,
+    "title": "Eken Nook 2-Person Leather & Magnesium Dining Set",
+    "desc": "36-inch round Mango wood table with a champagne-gold magnesium pillar base, paired with 2 teak chairs with rattan cane backs and terracotta leather cushions.",
+    "prompt": "Eken Nook 2-Person Dining Set, 36-inch round mango wood tabletop with champagne magnesium pedestal base, 2 matching teak dining chairs with rattan cane backrests and terracotta leather cushions, minimal studio backdrop, 4:5 vertical aspect ratio.",
+    "mat": "Solid Mango Wood, Teak Wood, Champagne Magnesium Alloy, Rattan Cane, Terracotta Leather."
+  },
+  {
+    "num": 30,
+    "title": "Eken Gomati 6-Person Grand Dining Set",
+    "desc": "72-inch rectangular solid teak table with a champagne-gold magnesium apron, surrounded by 6 matching teak chairs with natural cane backs and indigo raw silk seat pads.",
+    "prompt": "Eken Gomati 6-Person Grand Dining Set, 72-inch rectangular teak dining table with champagne gold magnesium alloy apron, 6 matching teak chairs with natural woven cane backrests and indigo raw silk seat pads, grey marble floor, warm studio lighting, 4:5 ratio. III. Bedroom Collection",
+    "mat": "Solid Teak Wood, Champagne-Gold Magnesium Alloy, Natural Rattan Cane, Indigo Raw Silk."
+  },
+  {
+    "num": 31,
+    "title": "Eken Son Chest of Drawers",
+    "desc": "Vertical 6-drawer chest in dark walnut Sheesham wood, featuring exposed finger box joinery corners and recessed circular aged brass pulls.",
+    "prompt": "Eken Son Chest of Drawers, 6-drawer tallboy, dark walnut Sheesham wood, exposed finger box joinery corners, recessed circular aged brass drawer pulls, warm bedroom light, oak floor, 4:5 ratio.",
+    "mat": "Solid Sheesham Wood (Dark Walnut finish), Aged Brass Hardware."
+  },
+  {
+    "num": 32,
+    "title": "Eken Son Upholstered Storage Bed",
+    "desc": "King platform bed in dark walnut Sheesham wood with integrated side storage drawers, featuring a sand beige linen headboard with vertical stepwell channel quilting.    watermarked_img_5837864932303641708.png",
+    "prompt": "Eken Son Upholstered Storage Bed, king platform bed, dark walnut wood base with side storage drawer, sand beige linen headboard with vertical stepwell quilted channels, morning bedroom lighting, 4:5 vertical.",
+    "mat": "Dark Walnut Sheesham Wood, Sand Beige Quilted Linen, Brass Pulls."
+  },
+  {
+    "num": 33,
+    "title": "Eken Narmada Canopy Bed",
+    "desc": "Four-poster king canopy bed in amber walnut Sheesham wood, detailed with hand-carved post finials and a soft neutral beige linen headboard.",
+    "prompt": "Eken Narmada Canopy Bed, 4-poster king bed frame in amber walnut Sheesham wood, hand-carved finials on post tops, neutral beige linen headboard cushion, warm plaster room backdrop, 4:5 ratio.",
+    "mat": "Solid Sheesham Wood (Amber Walnut finish), Beige Linen."
+  },
+  {
+    "num": 34,
+    "title": "Eken Sabarmati Nightstand Pair",
+    "desc": "Pair of nightstands in amber walnut Sheesham wood, featuring an upper open cubby and a single drawer front inset with hand-carved jaali lattice.",
+    "prompt": "Eken Sabarmati Nightstand Pair, bedside tables in amber walnut Sheesham wood, open upper cubby, single drawer with carved wooden jaali lattice front, brass pull tab, bedroom studio floor setting, 4:5 ratio.",
+    "mat": "Solid Sheesham Wood (Amber Walnut finish), Brass Pull Tabs."
+  },
+  {
+    "num": 35,
+    "title": "Eken Konkan Modern Poster Bed (Magnesium Hybrid)",
+    "desc": "King bed constructed from amber walnut teak posts connected by satin champagne magnesium alloy canopy joints, with a large natural rattan cane headboard.",
+    "prompt": "Eken Konkan Modern Poster Bed, teak wood vertical posts, satin champagne magnesium alloy corner canopy brackets, natural woven rattan cane headboard panel, beige linen bedding, 4:5 aspect ratio.",
+    "mat": "Teak Wood, Satin Champagne Magnesium Alloy Brackets, Rattan Cane."
+  },
+  {
+    "num": 36,
+    "title": "Eken Brahmaputra King Bed (Magnesium Hybrid)",
+    "desc": "Dark matte magnesium alloy canopy frame with a high forest green velvet headboard, topped by a Sheesham wood accent bar with carved jaali details.",
+    "prompt": "Eken Brahmaputra King Bed, dark matte magnesium alloy canopy frame, deep forest green velvet upholstered headboard, top Sheesham wood trim with carved jaali relief, soft micro-cement room studio, 4:5 vertical.",
+    "mat": "Dark Matte Magnesium Alloy, Forest Green Velvet, Carved Sheesham Wood."
+  },
+  {
+    "num": 37,
+    "title": "Eken Godavari Bedside Table",
+    "desc": "Amber walnut Sheesham wood nightstand featuring a smooth solid wood top surface and a single drawer facade inset with intricate hand-carved geometric jaali work and a teardrop aged brass pull handle.",
+    "prompt": "Eken Godavari Bedside Table, elevated three-quarter view, amber walnut Sheesham wood, smooth top surface, single drawer facade with hand-carved geometric jaali lattice, teardrop aged brass pull handle, studio setting, 4:5 ratio.",
+    "mat": "Solid Sheesham Wood (Amber Walnut finish), Aged Brass Hardware."
+  },
+  {
+    "num": 38,
+    "title": "Eken Narmada Single Bed",
+    "desc": "Single platform bed built from amber walnut Sheesham wood with champagne magnesium corner brackets and a rattan cane headboard panel bordered by an ivory linen cushion.",
+    "prompt": "Eken Narmada Single Bed, single platform bed frame in amber walnut Sheesham wood, satin champagne magnesium alloy corner joinery, natural woven rattan cane headboard panel, warm ivory linen cushion, oak floor backdrop, 4:5 ratio. IV. Study & Entryway Collection",
+    "mat": "Solid Sheesham Wood, Satin Champagne Magnesium Alloy, Natural Rattan Cane, Ivory Linen."
+  },
+  {
+    "num": 39,
+    "title": "Eken Krishna Entryway Console Table",
+    "desc": "60-inch natural teak wood console featuring twin drawers with carved sunburst block motifs, an inset top of honed Jaisalmer yellow sandstone, and fluted legs.",
+    "prompt": "Eken Krishna Entryway Console Table, natural teak console, 2 drawers with carved sunburst motif, honed yellow Jaisalmer sandstone inset top, classical fluted wooden legs, aged brass pull handles, architectural plaster niche backdrop, checkerboard floor, studio detail lighting, 4:5 aspect ratio.",
+    "mat": "Solid Natural Teak Wood, Honed Jaisalmer Sandstone, Aged Brass Hardware."
+  },
+  {
+    "num": 40,
+    "title": "Eken Godavari Writing Desk",
+    "desc": "Executive desk in natural Indian Teak featuring an inset deep forest green leather writing surface, brass pull knobs, and a central drawer front hand-carved with a jaali lattice pattern.",
+    "prompt": "Eken Godavari Writing Desk, natural teak desk frame, inset deep forest green leather writing surface, central drawer with hand-carved jaali wood lattice facade, brass pull knobs, home office studio setting, 4:5 ratio. </USER_REQUEST> <ADDITIONAL_METADATA> The current local time is: 2026-11-02T15:45:13+05:30. </ADDITIONAL_METADATA>",
+    "mat": "Solid Indian Teak Wood, Forest Green Leather Inset, Brass Knobs."
+  }
+]
